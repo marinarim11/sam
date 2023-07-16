@@ -1,0 +1,15 @@
+/Users/marinagrecko/Desktop/gh/sam/sam/bin/Debug/net7.0/sam
+/Users/marinagrecko/Desktop/gh/sam/sam/bin/Debug/net7.0/sam.deps.json
+/Users/marinagrecko/Desktop/gh/sam/sam/bin/Debug/net7.0/sam.runtimeconfig.json
+/Users/marinagrecko/Desktop/gh/sam/sam/bin/Debug/net7.0/sam.dll
+/Users/marinagrecko/Desktop/gh/sam/sam/bin/Debug/net7.0/sam.pdb
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/sam.csproj.AssemblyReference.cache
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/sam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/sam.AssemblyInfoInputs.cache
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/sam.AssemblyInfo.cs
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/sam.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/sam.dll
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/refint/sam.dll
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/sam.pdb
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/sam.genruntimeconfig.cache
+/Users/marinagrecko/Desktop/gh/sam/sam/obj/Debug/net7.0/ref/sam.dll
